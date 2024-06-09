@@ -1,0 +1,190 @@
+.flowbg {
+  background-color: cc;
+}
+
+.input-prompt-div {
+  width: 60vh;
+  height: 30vh;
+}
+
+.bg-blur {
+  backdrop-filter: blur(5px);
+}
+
+.divStyles {
+  width: 40rem;
+  height: 35rem;
+  background-color: #282425;
+  border: 2px solid#45DEDE;
+  border-radius: 6px;
+  color: #45dede;
+  margin-right: 57px;
+  margin-bottom: 1rem;
+
+  padding: "8px";
+}
+
+.textStyles {
+  background-color: #282425;
+  color: #45dede;
+  height: 15rem;
+}
+.input-text-styles {
+  color: black;
+  width: 41rem;
+  height: 20rem;
+}
+
+.input-text-styles-output {
+  color: black;
+  width: 41rem;
+  height: 22rem;
+}
+.selectstyles {
+  background: linear-gradient(to left, #087ee1, #05e8ba);
+
+  width: 23rem;
+  border: none;
+  border: 1px solid white;
+  height: 3.5rem;
+  color: #282425;
+  font-weight: bold;
+}
+
+.selectstyles:hover {
+  background: linear-gradient(to left, #087ee1, #05e8ba);
+  width: 25rem;
+  height: 3.5rem;
+  font-weight: bold;
+  border: 1px solid white;
+}
+.selectstyles:focus {
+  background: linear-gradient(to left, #087ee1, #05e8ba);
+  width: 25rem;
+  height: 3.5rem;
+  font-weight: bold;
+  border: 1px solid white;
+}
+
+.compile {
+  width: 20rem;
+}
+
+.gradient-button {
+  background: linear-gradient(to left, #087ee1, #05e8ba);
+  border: 1px solid transparent;
+  color: #1e293b;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+  transition: 0.3s;
+  font-weight: bold;
+}
+
+.gradient-button:hover {
+  background: linear-gradient(
+    to left,
+    #05e8ba,
+    #087ee1
+  ); /* Add your desired gradient colors here */
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.send-btn {
+  margin-left: 24rem;
+}
+
+.input-cmd {
+  height: 25rem;
+}
+
+.output-cmd {
+  height: 32rem;
+}
+
+.first {
+  margin-top: 25rem;
+  width: 40rem;
+  margin-left: 45rem;
+}
+
+.second {
+  justify-content: center;
+  width: 40rem;
+  margin-left: 52.5rem;
+  margin-top: 35rem;
+}
+
+.third {
+  justify-content: center;
+  width: 40rem;
+  margin-left: 60rem;
+  margin-top: 8rem;
+}
+
+.fourth {
+  justify-content: center;
+  width: 40rem;
+  margin-left: 89rem;
+  margin-top: 52rem;
+}
+.fifth {
+  justify-content: center;
+  width: 40rem;
+  margin-left: 13rem;
+  margin-top: 13rem;
+}
+
+.sixth {
+  justify-content: center;
+  width: 30rem;
+  margin-left: 27rem;
+  margin-top: 49rem;
+}
+
+.seventh {
+  justify-content: center;
+  width: 30rem;
+  margin-left: 40rem;
+  margin-top: 10rem;
+}
+
+.eighth {
+  justify-content: center;
+  width: 20rem;
+  margin-left: 40rem;
+  margin-top: 35rem;
+}
+
+.nineth {
+  justify-content: center;
+  width: 20rem;
+  margin-left: 40rem;
+  margin-top: 47rem;
+}
+
+.tenth {
+  justify-content: center;
+  width: 30rem;
+  margin-left: 107rem;
+  margin-top: 2rem;
+}
+
+.sidebar-text {
+  margin-top: 7rem;
+  font-size: larger;
+  letter-spacing: 2px;
+  margin-bottom: 3rem;
+  padding-right: 1rem;
+  color: white;
+  font-weight: bold;
+}
+
+.sidebar-margin {
+  margin-top: 8rem;
+}
